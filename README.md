@@ -1,5 +1,10 @@
 # Projeto Banco de Dados Gerenciado - Node.js
 
+
+**Nome:**JOÃO VICTOR MORAES VIEIRA
+**RA:**1091392123024
+
+
 Este projeto demonstra:
 
 - Inserts direcionados ao host primário (write)
